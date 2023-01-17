@@ -1,0 +1,1 @@
+(1..50).each {|compteur| puts "jean.dupont.#{compteur}@email.fr"}
